@@ -39,10 +39,18 @@ The camera feed displayed bounding boxes and `bottle` labels for two bottles. Th
 
 ## Evidence and submission
 
-- Flash and SSH screenshots: to be added.
-- USB camera and object detection: see the image below.
+### Flashing complete
+
+![Successful OS image flashing](flash.png)
+
+### SSH connection
+
+![SSH session on the RDK X5](ssh.png)
+
+### USB camera and object detection
 
 ![USB camera object detection](usb_camera.png)
-- Discord Stage 1 update and official showcase submission: to be added.
+
+Discord Stage 1 update and official showcase submission: to be added.
 
 Reference: [Robotics Dream Keeper Challenge 2026 Winter](https://github.com/D-Robotics/Robotics-Dream-Keeper-Challenge-Winter).
