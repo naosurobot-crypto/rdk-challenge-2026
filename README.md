@@ -51,6 +51,8 @@ The camera feed displayed bounding boxes and `bottle` labels for two bottles. Th
 
 ![USB camera object detection](usb_camera.png)
 
-Discord Stage 1 update and official showcase submission: to be added.
+Discord: [Stage 1 update](https://discord.com/channels/1300358874280230994/1566089489791590702/1569696959873421362) (requires access to the Discord server).
+
+Official showcase submission: to be added.
 
 Reference: [Robotics Dream Keeper Challenge 2026 Winter](https://github.com/D-Robotics/Robotics-Dream-Keeper-Challenge-Winter).
