@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="720" viewBox="0 0 1000 720">
+<rect width="1000" height="720" fill="#f7fbff"/><g font-family="sans-serif" fill="#263e55">
+<text x="40" y="55" font-size="32" font-weight="bold">ぽちゃ犬｜体と足の構想図</text><text x="40" y="88" font-size="17">配置は仮案・寸法と機構は未決定（製作用図面ではありません）</text>
+<text x="50" y="145" font-size="24" font-weight="bold">上から見た配置</text>
+<rect x="110" y="190" width="600" height="250" rx="48" fill="#d9efff" stroke="#557b9b" stroke-width="4"/>
+<rect x="140" y="263" width="100" height="88" rx="15" fill="#fff0c8" stroke="#a78545" stroke-width="3"/>
+<text x="153" y="298" font-size="18">カメラ</text><text x="153" y="326" font-size="15">前向き</text>
+<rect x="300" y="238" width="230" height="135" rx="16" fill="#fff" stroke="#557b9b" stroke-width="3"/>
+<text x="335" y="291" font-size="22">RDK X5</text><text x="322" y="324" font-size="16">搭載方法・重量は要確認</text>
+<rect x="559" y="258" width="120" height="95" rx="15" fill="#eae4ff" stroke="#826da6" stroke-width="3"/>
+<text x="574" y="297" font-size="17">電源候補</text><text x="575" y="324" font-size="15">未選定</text>
+<g fill="#ffc4cb" stroke="#b06b79" stroke-width="3"><rect x="155" y="158" width="90" height="45" rx="16"/><rect x="155" y="428" width="90" height="45" rx="16"/><rect x="575" y="158" width="90" height="45" rx="16"/><rect x="575" y="428" width="90" height="45" rx="16"/></g>
+<text x="164" y="187" font-size="16">前足 左</text><text x="164" y="456" font-size="16">前足 右</text><text x="584" y="187" font-size="16">後足 左</text><text x="584" y="456" font-size="16">後足 右</text>
+<text x="55" y="315" font-size="21">← 前</text><text x="745" y="310" font-size="19">体・脚の大きさ</text><text x="745" y="342" font-size="19">固定方法は未決定</text>
+<text x="50" y="535" font-size="24" font-weight="bold">足の試作（１本から）</text>
+<rect x="85" y="575" width="235" height="85" rx="20" fill="#fff" stroke="#557b9b" stroke-width="3"/><text x="105" y="611" font-size="19">体につなぐ部分</text><text x="105" y="637" font-size="15">関節構造・位置は未決定</text>
+<path d="M 320 617 L 390 617" stroke="#557b9b" stroke-width="4"/><circle cx="430" cy="617" r="35" fill="#ffc4cb" stroke="#b06b79" stroke-width="3"/><text x="400" y="623" font-size="16">関節？</text><path d="M 465 617 L 555 655" stroke="#557b9b" stroke-width="8"/><ellipse cx="578" cy="665" rx="40" ry="13" fill="#557b9b"/>
+<text x="650" y="591" font-size="18">サーボの数・取付方法</text><text x="650" y="620" font-size="18">重さを支えられるか</text><text x="650" y="649" font-size="18">片足の試験で確認</text></g></svg>
